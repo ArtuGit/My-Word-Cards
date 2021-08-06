@@ -27,7 +27,7 @@
     "@nuxtjs/firebase": "^7.5.0",
     "browser-image-compression": "^1.0.14",
     "core-js": "^3.9.1",
-    "firebase": "^8.3.0",
+    "firebase": "^8.9.0",
     "image-blob-reduce": "^2.2.2",
     "js-cookie": "^2.2.1",
     "lodash.orderby": "^4.6.0",
