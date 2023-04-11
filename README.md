@@ -28,5 +28,5 @@ node@itcross:~$ npm -v
 docker build -t my-word-cards .
 docker run -it -p 5000:5000 my-word-cards
 docker ps -a
-docker stop <container_id?
+docker stop <container_id>
 ```
