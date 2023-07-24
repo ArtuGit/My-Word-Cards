@@ -16,9 +16,9 @@
 
 ### Node version:
 ```
-node@itcross:~$ node -v
+$ node -v
 v14.15.1
-node@itcross:~$ npm -v
+$ npm -v
 6.14.8
 ```
 
