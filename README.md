@@ -1,7 +1,6 @@
 # My Word Cards
 
 ## Easy to use, simple word cards like paper ones, but limitless, eco-friendly, fast in turnover, and free forever. 
-https://my-word-cards.itcross.org
 
 ## Features:
 - Managing cards and collections
